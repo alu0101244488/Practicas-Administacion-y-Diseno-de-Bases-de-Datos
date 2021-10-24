@@ -1,0 +1,1 @@
+Repositorio en que se realizarán todas las prácticas individuales de la asignatura de Administación y diseño de Bases de datos  durante el curso 2021 - 2022 por Aram Pérez Dios.
